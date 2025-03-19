@@ -1,7 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-[![Mengkun Liang](https://img.shields.io/badge/Mengkun-Liang-github-blue?logo=github)](https://github.com/MengkunLiang)
-
 I'm currently pursuing a **Ph.D. degree** in **Business Intelligence** at the **School of Information Systems**, **Beihang University (BUAA)**, supervised by Prof. Junjie Wu.
 
 #### Email  
