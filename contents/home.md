@@ -9,19 +9,28 @@ I'm currently pursuing a **Ph.D. degree** in **Business Intelligence** at the **
 <code>mengkun@buaa.edu.cn</code>
 
 #### Education  
-**Beihang University (BUAA)**, Ph.D. in Business Intelligence (2024–Present)  
-• GPA: **3.83/4.0** (Top 5%)  
+**Beihang University (BUAA)**  
+Ph.D. in **Management Science and Engineering**  
+*School of Information Systems*  
+*Ministry of Industry and Information Technology Key Laboratory of Data Intelligence and Smart Management*  
+**2024–Present**  
+• GPA: **3.83/4.0**
+• **Research Focus**: Business Intelligence & Deep Learning  
+• **Supervisor**: Prof. Junjie Wu  
 
-**Beijing University of Chemical Technology (BUCT)**, Honours Bachelor of Information Management and Information Systems (2020–2024)  
-• GPA: **4.14/4.33** (Top 1%)  
-• **Academic Awards**: National Scholarship (2021, 2022, 2023)  
+**Beijing University of Chemical Technology (BUCT)**  
+Honours Bachelor of **Information Management and Information Systems**  
+**2020–2024**  
+• GPA: **4.13/4.33** (Top 1%)  
+• **Academic Awards**:  
+  - National Scholarship (2021, 2022, 2023)  
+  - First-Class Academic Scholarship (2020–2024)  
+• **Thesis**: Business Intelligence & Deep Learning 
 
 #### Research Interests  
-- Business Intelligence Systems  
-- Large Language Model Applications  
-- Interpretable Machine Learning  
-- Reinforcement Learning for Optimization  
-- Data-Driven Decision Support  
+- Business Intelligence  
+- Deep learning
+- Trustworthy AI
 
 #### Professional Links  
 [**Google Scholar**](https://scholar.google.com/citations?user=XXXX) | [**ResearchGate**](https://www.researchgate.net/profile/XXXX) | [**LinkedIn**](https://www.linkedin.com/in/XXXX)  
