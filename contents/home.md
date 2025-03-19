@@ -22,10 +22,18 @@ Ph.D. in **Management Science and Engineering**
 Honours Bachelor of **Information Management and Information Systems**  
 **2020–2024**  
 • GPA: **4.13/4.33** (Top 1%)  
-• **Academic Awards**:  
-  - National Scholarship (2021, 2022, 2023)  
-  - First-Class Academic Scholarship (2020–2024)  
-• **Thesis**: Business Intelligence & Deep Learning 
+• **Thesis**: Business Intelligence & Deep Learning  
+• **Student Leadership**: Served as the President of BUCT Intelligent Manufacturing Club (Three - Star Club), leading club activities and promoting technological innovation among students.  
+• **Media Recognition**:  
+  - **National Recognition**: Featured as one of the top 100 National Scholarship recipients in [People's Daily](http://edu.people.com.cn/n1/2024/0504/c1006-40228634.html) (May 4, 2024), ranking 5th nationally.  
+  - **University - wide Promotion**: Profiled in BUCT's official undergraduate excellence report "[Outstanding Students of BUCT](https://mp.weixin.qq.com/s/w1mmNKj0T8Cqolg6yN3IeA)" (2024), highlighting academic achievements and leadership contributions.  
+• **International Exchange**:  
+  - National University of Singapore: AI & Machine Learning (Distinction)  
+  - PBL International Program: Data Science & Business Intelligence (Grade A)
+
+#### International Exchange
+- **National University of Singapore**: Completed a program in Artificial Intelligence and Machine Learning with a Distinction.
+- **PBL International High - Level Talent Development Program**: Studied Data Science and Business Intelligence, achieving a grade of A.
 
 #### Research Interests  
 - Business Intelligence  
@@ -33,12 +41,10 @@ Honours Bachelor of **Information Management and Information Systems**
 - Trustworthy AI
 
 #### Professional Links  
-[**Google Scholar**](https://scholar.google.com/citations?user=XXXX) | [**ResearchGate**](https://www.researchgate.net/profile/XXXX) | [**LinkedIn**](https://www.linkedin.com/in/XXXX)  
+[**Google Scholar**](https://scholar.google.com/citations?user=U-HVWWQAAAAJ&hl=zh-CN)
 
 #### Skills  
 - **AI Frameworks**: PyTorch, TensorFlow, Hugging Face  
 - **Data Analytics**: SQL, Tableau, Power BI  
 - **Optimization**: Genetic Algorithms, Kriging Models  
-- **Languages**: Python, MATLAB, C++  
-
-*For full academic profile, please visit my [**CV**]*
+- **Languages**: Python, MATLAB, C++
