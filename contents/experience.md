@@ -1,21 +1,21 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Industry Experience**  
+### **Algorithm Engineer (Recommendation Systems)**  
+**Xiaohongshu Technology Co., Ltd.** | **User Growth Department**  
+**November 2023 – March 2024**  
+Designed and implemented machine learning models for user acquisition, retention, and churn recovery. Leveraged PySpark, Hadoop, and PyTorch to build predictive models for LTV, CTCVR, ΔROI, and ARPU metrics, supported by in-depth statistical analysis.  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### **Key Contributions**:  
+- **Innovative Strategy Development**: Pioneered a mirror-based advertising evaluation framework for second-day retention, engagement rate, and efficiency metrics, adopted by multiple departments.  
+- **High-Value Audience Segmentation**: Developed a framework to identify high-ROI users from churned populations, achieving significant ROI improvements. Now deployed across all user segments.  
+- **Patent-Pending Technologies**: Filed two patents for the advertising evaluation framework and audience segmentation technology.  
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
 
----
+### **Algorithm Engineer (Data Intelligence)**  
+**AviaGames (North American Gaming Company, $5B Valuation)** | **China R&D Center**  
+**September 2023 – November 2023**  
+Developed end-to-end machine learning pipelines for revenue forecasting (p-ltv). Built hybrid models combining RNN/LSTM/GRU-based time-series networks and tree-based models to predict 60-day game revenues.  
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### **Key Contributions**:  
+- **Pipeline Development**: Constructed scalable forecasting pipelines using Snowflake and SageMaker, ensuring model reproducibility and deployment efficiency.  
+- **Performance Optimization**: Conducted user-level error analysis to refine model accuracy, reducing forecasting deviation by 12%.  
+- **Cross-Functional Collaboration**: Collaborated with Scrum teams to align algorithm development with product roadmaps.  
